@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Matheus!
 
-<!--
-**theusms67/theusms67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudante de programação  
+🚀 Focado em desenvolvimento web e projetos práticos  
+📚 Sempre buscando evoluir na área de tecnologia  
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos
+🔹 Gerador de Mensagens para Treinamentos  
+👉 https://github.com/theusms67/Gerador-de-Mensagens-Treinamentos-
+
+## 📫 Contato
+- GitHub: https://github.com/theusms67
