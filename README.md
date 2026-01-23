@@ -1,18 +1,23 @@
-# 👋 Olá, eu sou o Matheus!
+Olá! ================================================================= ================================================================= Desenvolvedor Web | Estudante de Programação | Criador de Projetos ------------------------------------------------------------------ Sou estudante de programação apaixonado por tecnologia, informática e desenvolvimento web. Atualmente foco em criar projetos práticos utilizando HTML, CSS e JavaScript, sempre buscando evoluir minhas habilidades, aprender novas tecnologias e construir soluções reais. Meu objetivo é crescer na área de tecnologia, ganhar experiência profissional e me tornar um desenvolvedor cada vez mais completo. * 🌍 Moro em Três Lagoas - MS, Brasil * 🖥️ Veja meu portfólio em [Meu Portfólio](http://https://theusms67.github.io/portfolio/) * ✉️ Você pode entrar em contato comigo em [matheus.inovamacedo@gmail.com](mailto:matheus.inovamacedo@gmail.com) * 🚀 Atualmente estou trabalhando em [Portfólio pessoal e estudando projetos em JavaScript](https://theusms67.github.io) * 🧠 Atualmente estou aprendendo JavaScript, lógica de programação e desenvolvimento web * 👥 Procuro colaborar em Projetos web, automatizações, sites e aplicações para aprendizado e portfólio * 💬 Pergunte-me sobre Gosto de aprender coisas novas, resolver problemas e transformar ideias em projetos reais.
 
-💻 Estudante de programação  
-🚀 Focado em desenvolvimento web e projetos práticos  
-📚 Sempre buscando evoluir na área de tecnologia  
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a> <a <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a> <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a> <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
+</p>
 
-## 🛠️ Tecnologias
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+### Redes Sociais
 
-## 📂 Projetos
-🔹 Gerador de Mensagens para Treinamentos  
-👉 https://github.com/theusms67/Gerador-de-Mensagens-Treinamentos-
+<p align="left"> <a href="https://www.github.com/theusms67" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" <a href="https://www.facebook.com/theusms.67" target="_blank" rel="noreferrer"> <picture> <source media= "(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> </p>
+<a href="https://www.github.com/theusms67" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/theusms67?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+### Insígnias
 
-## 📫 Contato
-- GitHub: https://github.com/theusms67
+<b>Minhas estatísticas do GitHub</b>
+
+<a href="http://www.github.com/theusms67"><img src="https://github-readme-stats.vercel.app/api?username=theusms67&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Estatísticas do GitHub de theusms67" /></a>
+
+<a href="http://www.github.com/theusms67"><img src="https://github-readme-streak-stats.herokuapp.com/?user=theusms67&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/theusms67" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theusms67&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Principais repositórios</b>
+
+<div width="100%" align="center"> <a href="https://github.com/theusms67/Gerador-de-Mensagens-Treinamentos-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=theusms67&repo=Gerador-de-Mensagens-Treinamentos-&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
