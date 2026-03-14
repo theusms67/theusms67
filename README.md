@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá! Meu nome é Matheus, tenho 16 anos e sou estudante do 2º ano do Ensino Médio. Tenho grande interesse por programação, tecnologia e manutenção de computadores. Gosto de aprender coisas novas, criar projetos e entender como as máquinas funcionam. Meu objetivo é seguir carreira na área de Engenharia de Software e continuar evoluindo cada vez mais na programação.
+Hi! My name is Matheus, I’m 16 years old and a high school student. I’m passionate about programming, technology, and computer maintenance. I enjoy learning new things, building projects, and understanding how machines work. My goal is to pursue a career in Software Engineering.
 
 
 ## 🌐 Socials:
