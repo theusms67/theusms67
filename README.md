@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Matheus Macedo! 👋
 
-<!--
-**theusms67/theusms67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](banner-portfolio.jpeg)
 
-Here are some ideas to get you started:
+### 🚀 Sobre mim
+Sou estudante de programação apaixonado por tecnologia, computadores e desenvolvimento web. 
+Atualmente focado em Tecnologia, Processos Administrativos e Inteligência Artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Jovem Aprendiz em Três Lagoas/MS.
+
+---
+
+### 🛠️ Minhas Skills
+- **Linguagens:** HTML, CSS, JavaScript, Python
+- **Ferramentas:** Pacote Office Avançado, Azure IA, Git/GitHub
+- **Formação:** SENAI (IA), Salesiano (Informática)
+
+[🌐 Acesse meu Portfólio Estratégico](https://theusms67.github.io/Portfolio/)
