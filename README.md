@@ -15,4 +15,4 @@ Atualmente focado em Tecnologia, Processos Administrativos e Inteligência Artif
 - **Ferramentas:** Pacote Office Avançado, Azure IA, Git/GitHub
 - **Formação:** SENAI (IA), Salesiano (Informática)
 
-[🌐 Acesse meu Portfólio Estratégico](https://theusms67.github.io/Portfolio/)
+[🌐 Acesse meu Portfólio Estratégico](https://theusms67.github.io/portf-lio/)
